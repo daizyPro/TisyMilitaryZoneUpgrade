@@ -9,7 +9,7 @@ To Install Server Side
 - then head over to the github link and download the files
 - Then Upload them files to your VPP BuilderItemsFolder in your server files
 - Restart the server
-- And hey presto you have a nice big castle and a traders area on Namalsk
+- And hey presto you have a nice New Tisy Military Zone
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
